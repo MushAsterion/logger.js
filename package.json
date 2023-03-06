@@ -1,0 +1,16 @@
+{
+  "name": "logger.js",
+  "version": "1.0.0",
+  "description": "A logger module to extend console.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MushAsterion/logger.js.git"
+  },
+  "author": "Lucas Petitjean",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MushAsterion/logger.js/issues"
+  },
+  "homepage": "https://github.com/MushAsterion/logger.js#readme"
+}
