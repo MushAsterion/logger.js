@@ -24,7 +24,7 @@ const subLogger = {
  *
  * @returns {string}
  */
- logTime() {
+ function logTime() {
     let date = new Date();
 
     let milliseconds = date.getMilliseconds();
